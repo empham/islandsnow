@@ -1,7 +1,4 @@
-.navbarDarkDropdownMenuLink {
-  color: black;
-  align-content: center;
-}
-.button.dropdown-toggle {
-  background-color: white;
+footer {
+  background-color: #292929;
+  color: white;
 }
