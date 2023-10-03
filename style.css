@@ -2,3 +2,6 @@
   color: black;
   align-content: center;
 }
+.button.dropdown-toggle {
+  background-color: white;
+}
